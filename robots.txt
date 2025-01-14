@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /wp-includes/js/wp-emoji-release.min.js?ver=6.7.1
+Disallow: /responsible-gaming
+Disallow: /withdrawal.html
+Disallow: /terms-and-conditions
+Disallow: /assets_files/saved_resource.html
+Disallow: /about-us
+Disallow: /mail.php
+Disallow: /search?q={search_term_string}
+
+User-agent:Google-Extended
+Disallow:/
+
+User-agent:OAI-SearchBot
+Disallow:/
+
+User-agent:ChatGpt-User
+Disallow:/
+
+User-agent:GPTBot
+Disallow:/
+
+User-agent:Bingbot (its blocks Bing search engine too)
+Disallow:/
+
+User-agent: PerplexityBot
+Disallow:/
+
+User-agent:ClaudeBot
+Disallow:/
+
+Sitemap: https://daddybet.win/sitemap.xml
+Sitemap: https://daddybet.win/images_sitemap.xml
+
+User-agent:Cohere-ai
+Disallow:/
+
+User-agent:meta-externalagent
+Disallow:/
