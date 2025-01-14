@@ -29,11 +29,12 @@ Disallow:/
 User-agent:ClaudeBot
 Disallow:/
 
-Sitemap: https://daddybet.win/sitemap.xml
-Sitemap: https://daddybet.win/images_sitemap.xml
-
 User-agent:Cohere-ai
 Disallow:/
 
 User-agent:meta-externalagent
 Disallow:/
+
+Sitemap: https://winfair247.pro/sitemap.xml
+Sitemap: https://winfair247.pro/images_sitemap.xml
+
